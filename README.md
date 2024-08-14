@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning @ppDevelopment.de
 - 💞️ I’m looking to collaborate on other programmers
 - 📫 How to reach me kramiker@eloping.dev
-- ⚡ Fun fact: it∞, cooking, biking, swimming, cats
+- ⚡ Fun fact: it∞, cooking, biking, swimming, heliflight, cats
 
 <!---
 AppEntwickler/AppEntwickler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
