@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppEntwickler.de alias #KRAⓂ️ikER
+- 👋 Hi, I’m IT@ministrator & @ppEntwickler.de alias #KRAⓂ️ikER
 - 👀 I’m interested in IT∞ (CyberSecurity, IT-Forensic, ITministration)
 - 🌱 I’m currently learning AppDevelopment
 - 💞️ I’m looking to collaborate on other programmers
