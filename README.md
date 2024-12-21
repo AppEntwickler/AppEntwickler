@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mike KRAMER an IT@ministrator & @ppDeveloper.de alias #KRAⓂ️ikER
-- 👀 I’m interested in IT∞ (CyberSecurity, IT-Forensic, IT@ministration)
+- 👋 Hi, I’m Mike KRAMER an 🅰️ppEntwickler & IT@Ⓜ️inistrator alias #KRAⓂ️ikER
+- 👀 I’m interested in IT∞ (De(v).ElopIng, CyberSecurity, IT-Forensic, IT@ministration)
 - 🌱 I’m currently learning @ppDevelopment.de
 - 💞️ I’m looking to collaborate on other programmers
 - 📫 How to reach me AppEntwickler@iCloud.com
